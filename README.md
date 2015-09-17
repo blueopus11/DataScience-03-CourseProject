@@ -58,5 +58,5 @@ run_analysis.R accomplishes the above as follows:
     out to "averagedData.txt".  See CodeBook.md for details of the fields
     associated with this data set.
   
-DataScience-03-CourseProjectThe codebook can be found in this repo at:  CodeBook.md
+The codebook can be found in this repo at:  CodeBook.md
 
