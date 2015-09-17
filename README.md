@@ -1,22 +1,21 @@
-==================================================================
 github repo:  DataScience-03-CourseProject
 Coursera Data Science Class 3:  Getting and Cleaning Data
 Course Project
-==================================================================
+
 I would normally put author contact info here, but wish to remain
 anonymous for this project.
-==================================================================
+
 The purpose of this project is to demonstrate the ability to collect, work 
 with, and clean a data set. The goal is to prepare tidy data that can be 
 used for later analysis. The following is what has been submitted for this
 project:
 
-        1) a tidy data set as described below, 
-        2) a link to a Github repository with a script for performing the analysis, 
-        3) a code book called CodeBook.md that describes the variables, the data, and  
-                transformations performed to clean up 
-                the data. This README.md is included
-                in the repo with the run_analysis.R script.  
+*        1) a tidy data set as described below, 
+*        2) a link to a Github repository with a script for performing the analysis, 
+*        3) a code book called CodeBook.md that describes the variables, the data, and  
+*                transformations performed to clean up 
+*                the data. This README.md is included
+*                in the repo with the run_analysis.R script.  
 
 The original data to be tidied is data collected 
 from the accelerometers from the Samsung Galaxy S smartphone. A full description 
