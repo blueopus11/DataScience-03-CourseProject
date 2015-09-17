@@ -1,13 +1,13 @@
-###### Dataset
+### Dataset
 averagedData.txt
 
-###### Summary
+### Summary
 All fields are averages, or means, of the fields of a larger dataset.
           Given this context, the field names do NOT repeat the term "average"
           or "mean" as this would unnecessarily increase the length of variable
           names.
           
-###### Variables
+### Variables
 * subject - integer number identifying the subject associated with this row of data
 * activity - activity associated with this row of data;  values can be WALKING,
 WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
