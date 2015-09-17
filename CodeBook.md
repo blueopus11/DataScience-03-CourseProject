@@ -7,13 +7,8 @@ Summary:  All fields are averages, or means, of the fields of a larger dataset.
           
 Variables:
 * subject - integer number identifying the subject associated with this row of data
-* activity - activity associated with this row of data;  values can be:
-*                		WALKING
-*                		WALKING_UPSTAIRS
-*               		WALKING_DOWNSTAIRS
-*               		SITTING
-*                		STANDING
-*                		LAYING
+* activity - activity associated with this row of data;  values can be WALKING,
+WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
 The following are all averages of the original dataset variables, when grouped
 by subject and activity (descriptions from the original dataset will not be repeated here, but can be found at:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
