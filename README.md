@@ -42,6 +42,7 @@ run_analysis.R does the following.
     variable for each activity and each subject.
 
 run_analysis.R accomplishes the above as follows:
+
 1.  Reading and merging data
   1.  Read in the activity labels and the features/column labels, so as to 
         provide info to label data in a human-friendly way.
