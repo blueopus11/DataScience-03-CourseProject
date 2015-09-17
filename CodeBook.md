@@ -6,10 +6,9 @@ Summary:  All fields are averages, or means, of the fields of a larger dataset.
           names.
           
 Variables:
-          subject - integer number identifying the subject associated with 
-                    this row of data
+* subject - integer number identifying the subject associated with this row of data
                 
-          activity - activity associated with this row of data;  values can be:
+* activity - activity associated with this row of data;  values can be:
 
 *                		WALKING
 *                		WALKING_UPSTAIRS
