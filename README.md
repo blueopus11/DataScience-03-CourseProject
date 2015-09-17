@@ -42,7 +42,9 @@ run_analysis.R does the following.
     variable for each activity and each subject.
 
 run_analysis.R accomplishes the above as follows:
-1.  a.  Read in the activity labels and the features/column labels, so as to 
+1.  Reading and merging data
+
+    a.  Read in the activity labels and the features/column labels, so as to 
         provide info to label data in a human-friendly way.
     b.  Read in the training set, the associated label file, and the subject 
         information, and merge all of these together.
@@ -50,6 +52,7 @@ run_analysis.R accomplishes the above as follows:
     d.  Merge the results of b and c using rbind.  Now we have the training
         set and the test set merged together with appropriate labeling, which
         makes it more interpretable for humans.
+        
 2.  Extract only the columns onf data that contain the strings "mean" and "std".
     The strings can be any combination of upper and lower case letters.
 3.  Item 3 was done in conjunction with step 1, above, because doing it early
